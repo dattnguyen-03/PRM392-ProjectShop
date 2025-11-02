@@ -1,0 +1,103 @@
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_variant">#E85A2B</color>
+    <color name="primary_container">#FFF4F0</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#8B2500</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#6366F1</color>
+    <color name="secondary_variant">#4F46E5</color>
+    <color name="secondary_container">#F0F1FF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_secondary_container">#1E1B3A</color>
+
+    <!-- Success/Error/Warning Colors -->
+    <color name="success">#10B981</color>
+    <color name="success_container">#ECFDF5</color>
+    <color name="on_success">#FFFFFF</color>
+    <color name="error">#EF4444</color>
+    <color name="error_container">#FEF2F2</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_container">#FFFBEB</color>
+    <color name="on_warning">#FFFFFF</color>
+
+    <!-- Surface Colors -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F8FAFC</color>
+    <color name="surface_container">#F1F5F9</color>
+    <color name="surface_container_high">#E2E8F0</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="on_surface_variant">#64748B</color>
+
+    <!-- Outline & Border Colors -->
+    <color name="outline">#CBD5E1</color>
+    <color name="outline_variant">#E2E8F0</color>
+    <color name="shadow">#0F172A1A</color>
+    <color name="scrim">#80000000</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F8FAFC</color>
+    <color name="background_variant">#FAFBFC</color>
+    <color name="on_background">#0F172A</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#64748B</color>
+    <color name="text_disabled">#94A3B8</color>
+    <color name="text_on_dark">#FFFFFF</color>
+
+    <!-- Special Ecommerce Colors -->
+    <color name="price_color">#DC2626</color>
+    <color name="discount_bg">#FEE2E2</color>
+    <color name="rating_star">#FBBF24</color>
+    <color name="cart_badge">#DC2626</color>
+    <color name="sale_tag">#EF4444</color>
+    <color name="free_shipping">#10B981</color>
+    <color name="green">#10B981</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#FF5722</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_primary">#FF8A65</color>
+    <color name="dark_surface">#121212</color>
+    <color name="dark_surface_variant">#1E1E1E</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_on_surface">#E0E0E0</color>
+    <color name="dark_outline">#383838</color>
+
+    <!-- Admin Theme Colors -->
+    <color name="primary_color">@color/primary</color>
+    <color name="primary_light">#FFE8D6</color>
+    <color name="background_color">@color/surface_variant</color>
+    <color name="admin_text_primary">#1F2937</color>
+    <color name="admin_text_secondary">#6B7280</color>
+    <color name="error_color">@color/error</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#FEF3C7</color>
+    <color name="status_pending_text">#92400E</color>
+    <color name="status_processing">#DBEAFE</color>
+    <color name="status_processing_text">#1E40AF</color>
+    <color name="status_shipped">#E0E7FF</color>
+    <color name="status_shipped_text">#3730A3</color>
+    <color name="status_delivered">#D1FAE5</color>
+    <color name="status_delivered_text">#065F46</color>
+    <color name="status_cancelled">#FEE2E2</color>
+    <color name="status_cancelled_text">#991B1B</color>
+
+    <!-- Stats Cards Colors -->
+    <color name="stats_card_1">#3B82F6</color>
+    <color name="stats_card_2">#10B981</color>
+    <color name="stats_card_3">#F59E0B</color>
+
+    <!-- Chip and Component Colors -->
+    <color name="chip_background">#F3F4F6</color>
+    <color name="bottom_nav_selected">#FF6B35</color>
+    <color name="bottom_nav_unselected">#9CA3AF</color>
+</resources>
