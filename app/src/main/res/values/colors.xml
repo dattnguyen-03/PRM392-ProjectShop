@@ -1,7 +1,7 @@
 <resources>
     <!-- Primary Brand Colors -->
-    <color name="primary">#FF6B35</color>
-    <color name="primary_variant">#E85A2B</color>
+    <color name="primary">#004d40</color>
+    <color name="primary_variant">#10B981</color>
     <color name="primary_container">#FFF4F0</color>
     <color name="on_primary">#FFFFFF</color>
     <color name="on_primary_container">#8B2500</color>
@@ -52,7 +52,7 @@
     <color name="text_on_dark">#FFFFFF</color>
 
     <!-- Special Ecommerce Colors -->
-    <color name="price_color">#DC2626</color>
+    <color name="price_color">#004d40</color>
     <color name="discount_bg">#FEE2E2</color>
     <color name="rating_star">#FBBF24</color>
     <color name="cart_badge">#DC2626</color>
